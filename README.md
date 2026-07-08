@@ -58,3 +58,57 @@
 </div>
 
 ---
+# <img src="https://img.icons8.com/fluency/48/about.png" width="35"/> About Me
+
+<table>
+<tr>
+<td width="58%">
+
+### 🚀 Turning Ideas into Intelligent Software
+
+I'm a **Computer Science Engineering (AI & ML)** undergraduate passionate about building software that creates real-world impact.
+
+My interests lie at the intersection of **Artificial Intelligence**, **Full Stack Development**, and **IoT**, where I enjoy designing scalable applications that are practical, user-centric, and data-driven.
+
+I believe the best way to learn is by building. Every project I work on teaches me something new about software engineering, problem-solving, and system design.
+
+---
+
+### 🎯 Current Focus
+
+- 🤖 AI Powered Applications
+- 🌐 Full Stack Development
+- ☕ Java Development
+- ⚙️ Backend Engineering
+- 📊 Data Structures & Algorithms
+- 🚀 Modern Web Technologies
+
+</td>
+
+<td width="42%">
+
+```yaml
+Name      : Yamini Bathini
+
+Role      : Student Developer
+
+College   : Vel Tech University
+
+Degree    : B.Tech CSE (AI & ML)
+
+Location  : Chennai 🇮🇳
+
+CGPA      : 9.6 ⭐
+
+Patent    : Published
+
+Projects  : 10+
+
+Learning  : Never Stops 🚀
+```
+
+</td>
+</tr>
+</table>
+
+---
