@@ -366,7 +366,7 @@ An IoT-enabled monitoring system built to improve hydraulic system reliability b
 
 | 🏆 Indian Patent | 🚀 TetherX Hackathon |
 |:----------------:|:-------------------:|
-| <img src="https://img.icons8.com/fluency/96/prize.png" width="100"/> | <img src="https://imgh.in/host/dzeycj" width="100"/> |
+| <img src="https://img.icons8.com/fluency/96/prize.png" width="100"/> | <img src="https://imgh.in/host/dzeycj" width="300"/> |
 | **Published Patent** | **National Level Participant** |
 | *Sensor Fusion Based IoT Emergency Hazard Detection & Evacuation Alert System* | Participated in the TetherX National Level Hackathon conducted by VIT Chennai, where I built Bharat Digital Twin, a digital twin platform for smart city and infrastructure management, enabling real-time asset visualization, monitoring, and data-driven urban planning. |
 
