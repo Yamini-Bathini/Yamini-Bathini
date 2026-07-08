@@ -1,21 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,24,30&text=Yamini%20Bathini&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Java%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24,30&text=Yamini%20Bathini&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Java%20Developer&descAlignY=58"/>
 
-# 👋 Hello, I'm Yamini Bathini
+# 👋 Hello, I'm **Yamini Bathini**
 
-### 🚀 Building AI Powered Applications • Full Stack Projects • Smart IoT Solutions
+### 🚀 Building AI-Powered Applications • Full Stack Solutions • Smart IoT Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Full+Stack+Developer;Java+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Projects+That+Solve+Real+Problems;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Computer+Science+(AI+%26+ML)+Student;Full+Stack+Developer;Java+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Projects+That+Solve+Real+Problems;Always+Learning+Something+New+🚀" />
+
+<br>
 
 <p align="center">
-
 <a href="https://github.com/Yamini-Bathini">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yamini-bathini-875052371">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Yamini_Bathini/">
@@ -25,22 +26,12 @@
 <a href="mailto:yamini3366@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
-
-<img src="https://komarev.com/ghpvc/?username=Yamini-Bathini&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Yamini-Bathini&label=Profile+Views&style=for-the-badge&color=7F5AF0"/>
+</p>
 
 </div>
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRkbzM2MWl6NjM2M2NzOG5ldjA3dHVjNWRhNnVkM3I2cW9qMHJtdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="35"> About Me
 
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-```yaml
-Name          : Yamini Bathini
-Education     : B.Tech Computer Science (AI & ML)
-College       : Vel Tech Rangarajan Dr. Sagunthala R&D Institute
-Location      : Chennai, Tamil Nadu 🇮🇳
-CGPA          : 9.6 ⭐
-Patent        : Indian Patent Published
-Hackathon     : TetherX Hackathon Finalist
+---
