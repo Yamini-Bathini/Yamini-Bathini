@@ -157,7 +157,9 @@ I enjoy designing and developing **AI-powered applications**, **Full Stack Web A
 <td>React • Node.js • Express • System Design</td>
 </tr>
 </table>
-
+</td>
+</tr>
+</table>
 ---
 # <img src="https://img.icons8.com/fluency/48/source-code.png" width="35"/> Tech Stack
 
