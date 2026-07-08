@@ -1,6 +1,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=gradient&customColorList=12,20,24,30&text=Yamini%20Bathini&fontColor=ffffff&fontSize=65&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Java%20Developer&descAlignY=60&descSize=22"/>
-
+<center>
 <h1>
 👋 Hi, I'm <span style="color:#58A6FF;">Yamini Bathini</span>
 </h1>
@@ -53,7 +53,7 @@
 
 | 🎓 AI & ML | 💻 Full Stack | 🤖 AI Projects | ☕ Java | ⚙️ IoT | 🏆 Patent |
 |:----------:|:-------------:|:--------------:|:-------:|:------:|:----------:|
-
+</center>
 </div>
 
 ---
