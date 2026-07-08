@@ -210,8 +210,8 @@ AI platform designed to help teachers identify learning gaps and generate person
 
 <br><br>
 
-<a href="YOUR_GITHUB_LINK">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<a href="[YOUR_GITHUB_LINK](https://github.com/Yamini-Bathini/shikshakIQ/tree/master)">
+<img src="[https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github](https://github.com/Yamini-Bathini/shikshakIQ/blob/master/screenshots/landing-page.png?raw=true)"/>
 </a>
 
 </td>
