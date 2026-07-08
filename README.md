@@ -151,8 +151,8 @@ I enjoy designing and developing **AI-powered applications**, **Full Stack Web A
 <td align="center">🤖 <b>Interests</b></td>
 <td>AI • Full Stack • IoT</td>
 </tr>
-
 <tr>
+  
 <td align="center">🌱 <b>Learning</b></td>
 <td>React • Node.js • Express • System Design</td>
 </tr>
@@ -162,3 +162,21 @@ I enjoy designing and developing **AI-powered applications**, **Full Stack Web A
 </table>
 
 <div align="center">
+  
+# <img src="https://img.icons8.com/fluency/48/source-code.png" width="35"/> Tech Stack
+
+<div align="center">
+
+| Category | Technologies |
+|:---------|:-------------|
+| 💻 **Programming** | <img src="https://skillicons.dev/icons?i=java,javascript,html,css" /> |
+| ⚛️ **Frontend** | <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" /> |
+| ⚙️ **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
+| 🗄️ **Database** | <img src="https://skillicons.dev/icons?i=postgres,supabase" /> |
+| ☁️ **Deployment** | <img src="https://skillicons.dev/icons?i=vercel" /> |
+| 🛠️ **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" /> |
+| 🤖 **AI & IoT** | <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/Machine%20Learning-5E60CE?style=flat-square"/> <img src="https://img.shields.io/badge/REST%20API-00BCD4?style=flat-square"/> <img src="https://img.shields.io/badge/JWT-111827?style=flat-square"/> <img src="https://img.shields.io/badge/ESP32-E53935?style=flat-square"/> <img src="https://img.shields.io/badge/IoT-43A047?style=flat-square"/> |
+
+</div>
+
+---
