@@ -32,3 +32,15 @@
 <img src="https://komarev.com/ghpvc/?username=Yamini-Bathini&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRkbzM2MWl6NjM2M2NzOG5ldjA3dHVjNWRhNnVkM3I2cW9qMHJtdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="35"> About Me
+
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+```yaml
+Name          : Yamini Bathini
+Education     : B.Tech Computer Science (AI & ML)
+College       : Vel Tech Rangarajan Dr. Sagunthala R&D Institute
+Location      : Chennai, Tamil Nadu 🇮🇳
+CGPA          : 9.6 ⭐
+Patent        : Indian Patent Published
+Hackathon     : TetherX Hackathon Finalist
