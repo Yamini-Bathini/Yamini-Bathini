@@ -63,63 +63,75 @@
 <table>
 <tr>
 
-<td width="60%">
+<td width="58%">
 
-### 🚀 Turning Ideas into Intelligent Software
+## 🚀 Turning Ideas into Intelligent Software
 
-I'm a **Computer Science Engineering undergraduate** specializing in **Artificial Intelligence & Machine Learning**, passionate about building technology that solves real-world problems.
+I'm a **Computer Science Engineering undergraduate** specializing in **Artificial Intelligence & Machine Learning** with a passion for building technology that solves real-world problems.
 
-My work spans across **AI-powered applications**, **Full Stack Web Development**, and **IoT solutions**, where I enjoy transforming innovative ideas into scalable and user-friendly products.
+I enjoy designing and developing **AI-powered applications**, **Full Stack Web Applications**, and **IoT solutions** while continuously exploring modern technologies.
 
-I believe the best way to learn is by **building projects**, exploring modern technologies, and continuously improving my problem-solving skills.
+<br>
 
----
+### 💡 What Drives Me
 
-### 🎯 What I'm Focused On
+<img src="https://img.shields.io/badge/🤖-Artificial%20Intelligence-7F5AF0?style=for-the-badge"/>
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Full Stack Web Development
-- ☕ Java Development
-- ⚙️ Backend Development with Node.js & Express.js
-- 📊 Data Structures & Algorithms
-- 🗄️ REST APIs & Database Design
-- 🚀 Building impactful real-world applications
+<img src="https://img.shields.io/badge/🌐-Full%20Stack%20Development-00B4D8?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/☕-Java-FF6B35?style=for-the-badge"/>
 
-### 🌱 Currently Learning
+<img src="https://img.shields.io/badge/⚙️-Backend%20Engineering-3ECF8E?style=for-the-badge"/>
 
-- React.js
-- Node.js
-- Express.js
-- PostgreSQL
-- System Design
-- Advanced Java
-- Artificial Intelligence
+<img src="https://img.shields.io/badge/📊-Data%20Structures-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🚀-Problem%20Solver-E63946?style=for-the-badge"/>
 
 ---
 
-### 💡 Developer Philosophy
+## 🌱 Currently Learning
 
-> **"I enjoy building software that combines creativity, technology, and real-world impact."**
+🟣 React.js
+
+🔵 Node.js
+
+🟢 Express.js
+
+🟡 PostgreSQL
+
+🟠 System Design
+
+🔴 Advanced Java
+
+🟢 Artificial Intelligence
+
+---
+
+> 💜 **"Building software that creates impact through AI, Full Stack Development and IoT."**
 
 </td>
 
-<td width="40%" align="center">
+<td width="42%" align="center">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CGPA-9.6-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Projects-10+-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Patent-Published-important?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hackathon-TetherX-orange?style=for-the-badge"/>
 
 <br><br>
 
 ```yaml
 Name      : Yamini Bathini
-Role      : Student Developer
+Role      : Full Stack Developer
 Education : B.Tech CSE (AI & ML)
-Location  : Chennai, India 🇮🇳
-CGPA      : 9.6 ⭐
-Projects  : 10+
-Patent    : Indian Patent
-Hackathon : TetherX
+Location  : Chennai 🇮🇳
 ```
 
 </td>
