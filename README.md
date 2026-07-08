@@ -382,3 +382,45 @@ An IoT-enabled monitoring system built to improve hydraulic system reliability b
 </div>
 
 ---
+# <img src="https://img.icons8.com/fluency/48/handshake.png" width="35"/> Let's Connect
+
+<div align="center">
+
+<h3>I'm always open to collaborating on exciting projects, discussing technology, or exploring new opportunities.</h3>
+
+<br>
+
+<a href="https://github.com/Yamini-Bathini">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yamini-bathini-875052371">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Yamini_Bathini/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:yamini3366@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Yamini-Bathini&label=Visitors&style=for-the-badge&color=blue"/>
+
+</div>
+
+---
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
+
+<h3>⭐ Thank you for visiting my profile! ⭐</h3>
+
+### 💙 Building intelligent software that creates real-world impact.
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+build+something+amazing+together!"/>
+
+</div>
