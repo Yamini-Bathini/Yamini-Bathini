@@ -162,49 +162,57 @@ I enjoy designing and developing **AI-powered applications**, **Full Stack Web A
 
 <div align="center">
 
-### 💻 Programming Languages
+# <img src="https://img.icons8.com/fluency/48/source-code.png" width="35"/> Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
+<div align="center">
 
-<br><br>
+## 💻 Languages
 
-### ⚛️ Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css"/>
 
 <br><br>
 
-### ⚙️ Backend Development
+## ⚛️ Frontend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<br><br>
-
-### 🗄️ Database & Cloud
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase,vercel" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
 
 <br><br>
 
-### 🛠️ Developer Tools
+## ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
 <br><br>
 
-### 🤖 AI & IoT
+## 🗄️ Database
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7F5AF0?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=postgres,supabase"/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-5C6BC0?style=for-the-badge"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/REST%20API-00BCD4?style=for-the-badge"/>
+## 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
+
+<br><br>
+
+## 🤖 AI & Other Technologies
+
+<p>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-6A5ACD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-00BCD4?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/IoT-43A047?style=for-the-badge"/>
+
+</p>
 
 </div>
 
