@@ -180,3 +180,190 @@ I enjoy designing and developing **AI-powered applications**, **Full Stack Web A
 </div>
 
 ---
+# <img src="https://img.icons8.com/fluency/48/rocket.png" width="35"/> Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🎓 ShikshakIQ
+
+### AI-Powered Adaptive Learning Platform
+
+AI platform designed to help teachers identify learning gaps and generate personalized assessments.
+
+### ⚡ Key Features
+
+- 🤖 AI Learning Gap Analysis
+- 📝 Adaptive Assessments
+- 📊 Teacher Analytics Dashboard
+- 📈 Student Performance Tracking
+- 🌐 Multi-language Support
+
+<br>
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,supabase"/>
+
+<br><br>
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="https://placehold.co/600x350/1a1b27/ffffff?text=ShikshakIQ"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<img src="https://placehold.co/600x350/1a1b27/ffffff?text=EcoEvent+AI"/>
+
+</td>
+
+<td width="50%">
+
+## 🌱 EcoEvent AI
+
+### AI-Powered Sustainable Event Platform
+
+Helping event organizers measure environmental impact using AI.
+
+### ⚡ Key Features
+
+- 🌍 Carbon Footprint Prediction
+- ♻️ Waste Analytics
+- 📈 Sustainability Score
+- 💡 Green Recommendations
+- 📊 Interactive Dashboard
+
+<br>
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,postgres"/>
+
+<br><br>
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## ⚙ Smart Hydraulic Monitoring
+
+### IoT Safety Monitoring System
+
+ESP32-based industrial monitoring system for hydraulic pipelines.
+
+### ⚡ Key Features
+
+- 🌡 Temperature Monitoring
+- 📈 Pressure Analysis
+- 📳 Vibration Detection
+- ⚡ Automated Solenoid Control
+- 📡 Live Monitoring Dashboard
+
+<br>
+
+**Tech Stack**
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IoT-43A047?style=for-the-badge"/>
+
+<br><br>
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="https://placehold.co/600x350/1a1b27/ffffff?text=Smart+Hydraulic"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<img src="https://placehold.co/600x350/1a1b27/ffffff?text=Expense+Splitter"/>
+
+</td>
+
+<td width="50%">
+
+## 💰 Expense Splitter
+
+### Full Stack Expense Management System
+
+A collaborative expense tracking application for groups.
+
+### ⚡ Key Features
+
+- 💳 Expense Tracking
+- 👥 Group Management
+- 📈 Dashboard Analytics
+- 🔐 Secure Authentication
+- 💰 Settlement Tracking
+
+<br>
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,postgres"/>
+
+<br><br>
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
