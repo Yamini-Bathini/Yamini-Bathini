@@ -1,4 +1,3 @@
-<img width="1300" height="817" alt="image" src="https://github.com/user-attachments/assets/6b21d7e8-a320-4d68-ad28-c0739182bc35" /><div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=gradient&customColorList=12,20,24,30&text=Yamini%20Bathini&fontColor=ffffff&fontSize=65&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Java%20Developer&descAlignY=60&descSize=22"/>
 
