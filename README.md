@@ -160,7 +160,7 @@ I enjoy designing and developing **AI-powered applications**, **Full Stack Web A
 </td>
 </tr>
 </table>
----
+
 # <img src="https://img.icons8.com/fluency/48/source-code.png" width="35"/> Tech Stack
 
 <div align="center">
