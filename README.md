@@ -279,7 +279,7 @@ An AI-powered sustainability platform that enables organizers to create greener 
 <td width="50%" align="center">
 
 <a href="https://github.com/Yamini-Bathini/EXPENSE-SPLITTER">
-<img src="[https://github.com/Yamini-Bathini/EXPENSE-SPLITTER/blob/main/screenshots/dashboard.png?raw=true" width="100%](https://www.overleaf.com/project/69f1c1f56dcabc1f3a20bb95/blob/ad22ca559c3ce0874c8e0cdb1087c81ea8e7ad11)" alt="Expense Splitter"/>
+<img src="https://github.com/Yamini-Bathini/EXPENSE-SPLITTER/blob/main/screenshots/dashboard.png?raw=true" width="100%" alt="Expense Splitter Dashboard"/>
 </a>
 
 </td>
@@ -290,20 +290,20 @@ An AI-powered sustainability platform that enables organizers to create greener 
 
 ### Secure Full Stack Expense Management Platform
 
-A modern web application that simplifies expense sharing, balance tracking, and settlements with secure authentication and an intuitive dashboard.
+A modern full-stack application that simplifies **expense sharing, balance tracking, and group settlements** through a clean user interface and secure authentication, making collaborative expense management effortless.
 
 ### ✨ Key Features
 
-- 💳 Shared Expense Tracking
-- 👥 Group Expense Management
-- 📊 Interactive Dashboard
-- 🔐 Secure Authentication
-- 📈 Spending Analytics
-- 💰 Smart Settlement Calculation
+- 💳 Create & Manage Shared Expenses
+- 👥 Group-Based Expense Tracking
+- 📊 Interactive Dashboard & Analytics
+- 🔐 Secure User Authentication
+- 💰 Smart Balance & Settlement Calculation
+- 📱 Responsive User Experience
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,postgres"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,postgres" />
 
 <br><br>
 
