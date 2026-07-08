@@ -373,11 +373,11 @@ An IoT-enabled monitoring system built to improve hydraulic system reliability b
 </div>
 
 ---
-# <img src="https://img.icons8.com/fluency/48/activity-history.png" width="35"/> Contribution Activity
+# <img src="https://img.icons8.com/fluency/48/snake.png" width="35"/> Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yamini-Bathini&theme=tokyo-night&hide_border=true"/>
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Yamini-Bathini/Yamini-Bathini/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
