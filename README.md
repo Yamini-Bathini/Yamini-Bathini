@@ -279,7 +279,7 @@ An AI-powered sustainability platform that enables organizers to create greener 
 <td width="50%" align="center">
 
 <a href="https://github.com/Yamini-Bathini/EXPENSE-SPLITTER">
-<img src="https://github.com/Yamini-Bathini/EXPENSE-SPLITTER/blob/main/screenshots/dashboard.png?raw=true" width="100%" alt="Expense Splitter"/>
+<img src="[https://github.com/Yamini-Bathini/EXPENSE-SPLITTER/blob/main/screenshots/dashboard.png?raw=true" width="100%](https://www.overleaf.com/project/69f1c1f56dcabc1f3a20bb95/blob/ad22ca559c3ce0874c8e0cdb1087c81ea8e7ad11)" alt="Expense Splitter"/>
 </a>
 
 </td>
