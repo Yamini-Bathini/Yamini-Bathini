@@ -373,3 +373,12 @@ An IoT-enabled monitoring system built to improve hydraulic system reliability b
 </div>
 
 ---
+# <img src="https://img.icons8.com/fluency/48/activity-history.png" width="35"/> Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yamini-Bathini&theme=tokyo-night&hide_border=true&radius=16"/>
+
+</div>
+
+---
