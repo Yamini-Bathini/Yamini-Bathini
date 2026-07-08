@@ -182,9 +182,18 @@ I enjoy designing and developing **AI-powered applications**, **Full Stack Web A
 ---
 # <img src="https://img.icons8.com/fluency/48/rocket.png" width="35"/> Featured Projects
 
-<table>
+---
 
+<table>
 <tr>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/Yamini-Bathini/shikshakIQ">
+<img src="https://github.com/Yamini-Bathini/shikshakIQ/blob/master/screenshots/landing-page.png?raw=true" width="100%" alt="ShikshakIQ"/>
+</a>
+
+</td>
 
 <td width="50%">
 
@@ -192,51 +201,35 @@ I enjoy designing and developing **AI-powered applications**, **Full Stack Web A
 
 ### AI-Powered Adaptive Learning Platform
 
-AI platform designed to help teachers identify learning gaps and generate personalized assessments.
+An intelligent learning platform that helps teachers identify student learning gaps, generate personalized assessments, and monitor academic progress using Artificial Intelligence.
 
-### ⚡ Key Features
+### ✨ Key Features
 
 - 🤖 AI Learning Gap Analysis
-- 📝 Adaptive Assessments
+- 📝 Personalized Assessments
 - 📊 Teacher Analytics Dashboard
 - 📈 Student Performance Tracking
-- 🌐 Multi-language Support
+- 🌍 Multi-language Support
 
-<br>
-
-**Tech Stack**
+### 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,postgres,supabase"/>
 
 <br><br>
 
-<a href="[YOUR_GITHUB_LINK](https://github.com/Yamini-Bathini/shikshakIQ/tree/master)">
-<img src="[https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github](https://github.com/Yamini-Bathini/shikshakIQ/blob/master/screenshots/landing-page.png?raw=true)"/>
+<a href="https://github.com/Yamini-Bathini/shikshakIQ">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%">
-
-<img src="https://placehold.co/600x350/1a1b27/ffffff?text=ShikshakIQ"/>
-
-</td>
-
 </tr>
-
 </table>
 
 ---
 
 <table>
-
 <tr>
-
-<td width="50%">
-
-<img src="https://placehold.co/600x350/1a1b27/ffffff?text=EcoEvent+AI"/>
-
-</td>
 
 <td width="50%">
 
@@ -244,91 +237,50 @@ AI platform designed to help teachers identify learning gaps and generate person
 
 ### AI-Powered Sustainable Event Platform
 
-Helping event organizers measure environmental impact using AI.
+An AI-powered sustainability platform that enables organizers to create greener events using intelligent analytics, sustainability scoring, and environmental insights.
 
-### ⚡ Key Features
+### ✨ Key Features
 
-- 🌍 Carbon Footprint Prediction
-- ♻️ Waste Analytics
-- 📈 Sustainability Score
-- 💡 Green Recommendations
-- 📊 Interactive Dashboard
+- 🌍 Sustainability Analysis
+- 📊 Real-Time Dashboard
+- ♻️ Carbon Footprint Tracking
+- 🏆 Sustainability Scoring
+- 🌱 SDG Impact Mapping
+- 🤖 AI Recommendations
 
-<br>
+### 🛠️ Tech Stack
 
-**Tech Stack**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,postgres"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,supabase"/>
 
 <br><br>
 
-<a href="YOUR_GITHUB_LINK">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/vtu25913/ECO-EVENT-AI">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/vtu25913/ECO-EVENT-AI">
+<img src="https://github.com/vtu25913/ECO-EVENT-AI/blob/main/screenshots/Login.png?raw=true" width="100%" alt="EcoEvent AI"/>
 </a>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-## ⚙ Smart Hydraulic Monitoring
-
-### IoT Safety Monitoring System
-
-ESP32-based industrial monitoring system for hydraulic pipelines.
-
-### ⚡ Key Features
-
-- 🌡 Temperature Monitoring
-- 📈 Pressure Analysis
-- 📳 Vibration Detection
-- ⚡ Automated Solenoid Control
-- 📡 Live Monitoring Dashboard
-
-<br>
-
-**Tech Stack**
-
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/IoT-43A047?style=for-the-badge"/>
-
-<br><br>
-
-<a href="YOUR_GITHUB_LINK">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Yamini-Bathini/EXPENSE-SPLITTER">
+<img src="https://github.com/Yamini-Bathini/EXPENSE-SPLITTER/blob/main/screenshots/dashboard.png?raw=true" width="100%" alt="Expense Splitter"/>
 </a>
-
-</td>
-
-<td width="50%">
-
-<img src="https://placehold.co/600x350/1a1b27/ffffff?text=Smart+Hydraulic"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-<img src="https://placehold.co/600x350/1a1b27/ffffff?text=Expense+Splitter"/>
 
 </td>
 
@@ -336,34 +288,76 @@ ESP32-based industrial monitoring system for hydraulic pipelines.
 
 ## 💰 Expense Splitter
 
-### Full Stack Expense Management System
+### Secure Full Stack Expense Management Platform
 
-A collaborative expense tracking application for groups.
+A modern web application that simplifies expense sharing, balance tracking, and settlements with secure authentication and an intuitive dashboard.
 
-### ⚡ Key Features
+### ✨ Key Features
 
-- 💳 Expense Tracking
-- 👥 Group Management
-- 📈 Dashboard Analytics
+- 💳 Shared Expense Tracking
+- 👥 Group Expense Management
+- 📊 Interactive Dashboard
 - 🔐 Secure Authentication
-- 💰 Settlement Tracking
+- 📈 Spending Analytics
+- 💰 Smart Settlement Calculation
 
-<br>
-
-**Tech Stack**
+### 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,postgres"/>
 
 <br><br>
 
-<a href="YOUR_GITHUB_LINK">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Yamini-Bathini/EXPENSE-SPLITTER">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 </tr>
-
 </table>
 
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## ⚙️ Smart Hydraulic Monitoring System
+
+### IoT-Based Industrial Safety & Monitoring Solution
+
+An IoT-enabled monitoring system built to improve hydraulic system reliability by continuously monitoring critical parameters and detecting abnormal conditions in real time.
+
+### ✨ Key Features
+
+- 📡 Real-Time Monitoring
+- 🌡️ Pressure & Temperature Analysis
+- 📳 Vibration Detection
+- ⚡ Automated Solenoid Control
+- 🚨 Fault Detection & Alerts
+- 📈 Live Sensor Dashboard
+
+### 🛠️ Tech Stack
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IoT-43A047?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Sensors-1E88E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Automation-FF7043?style=for-the-badge"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://imghosting.in/host/mseyxt" width="100%" alt="Smart Hydraulic Monitoring System"/>
+
+</td>
+
+</tr>
+</table>
+
+---
 ---
