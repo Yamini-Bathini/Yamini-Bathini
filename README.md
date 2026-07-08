@@ -419,7 +419,6 @@ An IoT-enabled monitoring system built to improve hydraulic system reliability b
 
 <h3>⭐ Thank you for visiting my profile! ⭐</h3>
 
-### 💙 Building intelligent software that creates real-world impact.
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+build+something+amazing+together!"/>
 
