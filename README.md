@@ -127,16 +127,48 @@ I enjoy designing and developing **AI-powered applications**, **Full Stack Web A
 
 <br><br>
 
-```yaml
-Name      : Yamini Bathini
-Role      : Full Stack Developer
-Education : B.Tech CSE (AI & ML)
-Location  : Chennai 🇮🇳
-```
+<div align="center">
 
-</td>
+<img src="https://img.shields.io/badge/🎓_CGPA-9.6-success?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/💻_Projects-10+-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🏆_Patent-Published-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🚀_Hackathon-TetherX-yellow?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="35%">👤 <b>Name</b></td>
+<td width="65%">Yamini Bathini</td>
+</tr>
+
+<tr>
+<td align="center">💼 <b>Role</b></td>
+<td>Full Stack Developer</td>
+</tr>
+
+<tr>
+<td align="center">🎓 <b>Education</b></td>
+<td>B.Tech Computer Science (AI & ML)</td>
+</tr>
+
+<tr>
+<td align="center">📍 <b>Location</b></td>
+<td>Chennai, Tamil Nadu, India 🇮🇳</td>
+</tr>
+
+<tr>
+<td align="center">🤖 <b>Interests</b></td>
+<td>AI • Full Stack • IoT</td>
+</tr>
+
+<tr>
+<td align="center">🌱 <b>Learning</b></td>
+<td>React • Node.js • Express • System Design</td>
 </tr>
 </table>
-
----
