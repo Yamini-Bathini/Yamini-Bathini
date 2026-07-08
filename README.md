@@ -158,3 +158,54 @@ I enjoy designing and developing **AI-powered applications**, **Full Stack Web A
 <td>React • Node.js • Express • System Design</td>
 </tr>
 </table>
+# <img src="https://img.icons8.com/fluency/48/source-code.png" width="35"/> Tech Arsenal
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
+
+<br><br>
+
+### ⚛️ Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+
+<br><br>
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br><br>
+
+### 🗄️ Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,vercel" />
+
+<br><br>
+
+### 🛠️ Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+
+<br><br>
+
+### 🤖 AI & IoT
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7F5AF0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-5C6BC0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST%20API-00BCD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IoT-43A047?style=for-the-badge"/>
+
+</div>
+
+---
