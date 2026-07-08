@@ -366,7 +366,7 @@ An IoT-enabled monitoring system built to improve hydraulic system reliability b
 
 | 🏆 Indian Patent | 🚀 TetherX Hackathon |
 |:----------------:|:-------------------:|
-| <img src="https://img.icons8.com/fluency/96/prize.png" width="70"/> | <img src="https://img.icons8.com/fluency/96/medal2.png" width="70"/> |
+| <img src="https://img.icons8.com/fluency/96/prize.png" width="70"/> | <img src="https://imgh.in/host/dzeycj" width="70"/> |
 | **Published Patent** | **National Level Participant** |
 | *Sensor Fusion Based IoT Emergency Hazard Detection & Evacuation Alert System* | Participated in the **TetherX Hackathon**, developing innovative software solutions while collaborating in a competitive team environment. |
 
