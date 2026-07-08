@@ -360,76 +360,16 @@ An IoT-enabled monitoring system built to improve hydraulic system reliability b
 </table>
 
 ---
-# <img src="https://img.icons8.com/fluency/48/trophy.png" width="35"/> Achievements & Highlights
+# 🏆 Achievements
 
 <div align="center">
 
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-<img src="https://img.icons8.com/fluency/96/prize.png" width="70"/>
-
-### 🏆
-
-**Indian Patent**
-
-Published Patent
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="70"/>
-
-### ⭐
-
-**CGPA 9.6**
-
-Academic Excellence
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://img.icons8.com/fluency/96/source-code.png" width="70"/>
-
-### 💻
-
-**10+ Projects**
-
-AI • Full Stack • IoT
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="70"/>
-
-### 🤖
-
-**AI Developer**
-
-Machine Learning Enthusiast
-
-</td>
-
-</tr>
-
-</table>
+| 🏆 Indian Patent | 🚀 TetherX Hackathon |
+|:----------------:|:-------------------:|
+| <img src="https://img.icons8.com/fluency/96/prize.png" width="70"/> | <img src="https://img.icons8.com/fluency/96/medal2.png" width="70"/> |
+| **Published Patent** | **National Level Participant** |
+| *Sensor Fusion Based IoT Emergency Hazard Detection & Evacuation Alert System* | Participated in the **TetherX Hackathon**, developing innovative software solutions while collaborating in a competitive team environment. |
 
 </div>
-
----
-
-### 🌟 Milestones
-
-- 🏅 Published an **Indian Patent** in IoT & Smart Monitoring Systems
-- 🚀 Built **10+ real-world projects** in AI, Full Stack, and IoT
-- 🎓 Maintaining a **9.6 CGPA** in Computer Science Engineering (AI & ML)
-- 🌱 Continuously learning and exploring modern software technologies
-- 💡 Passionate about solving real-world problems through technology
 
 ---
