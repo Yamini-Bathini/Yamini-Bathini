@@ -62,52 +62,68 @@
 
 <table>
 <tr>
-<td width="58%">
+
+<td width="60%">
 
 ### 🚀 Turning Ideas into Intelligent Software
 
-I'm a **Computer Science Engineering (AI & ML)** undergraduate passionate about building software that creates real-world impact.
+I'm a **Computer Science Engineering undergraduate** specializing in **Artificial Intelligence & Machine Learning**, passionate about building technology that solves real-world problems.
 
-My interests lie at the intersection of **Artificial Intelligence**, **Full Stack Development**, and **IoT**, where I enjoy designing scalable applications that are practical, user-centric, and data-driven.
+My work spans across **AI-powered applications**, **Full Stack Web Development**, and **IoT solutions**, where I enjoy transforming innovative ideas into scalable and user-friendly products.
 
-I believe the best way to learn is by building. Every project I work on teaches me something new about software engineering, problem-solving, and system design.
+I believe the best way to learn is by **building projects**, exploring modern technologies, and continuously improving my problem-solving skills.
 
 ---
 
-### 🎯 Current Focus
+### 🎯 What I'm Focused On
 
-- 🤖 AI Powered Applications
-- 🌐 Full Stack Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Full Stack Web Development
 - ☕ Java Development
-- ⚙️ Backend Engineering
+- ⚙️ Backend Development with Node.js & Express.js
 - 📊 Data Structures & Algorithms
-- 🚀 Modern Web Technologies
+- 🗄️ REST APIs & Database Design
+- 🚀 Building impactful real-world applications
+
+---
+
+### 🌱 Currently Learning
+
+- React.js
+- Node.js
+- Express.js
+- PostgreSQL
+- System Design
+- Advanced Java
+- Artificial Intelligence
+
+---
+
+### 💡 Developer Philosophy
+
+> **"I enjoy building software that combines creativity, technology, and real-world impact."**
 
 </td>
 
-<td width="42%">
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
+
+<br><br>
 
 ```yaml
 Name      : Yamini Bathini
-
 Role      : Student Developer
-
-College   : Vel Tech University
-
-Degree    : B.Tech CSE (AI & ML)
-
-Location  : Chennai 🇮🇳
-
+Education : B.Tech CSE (AI & ML)
+Location  : Chennai, India 🇮🇳
 CGPA      : 9.6 ⭐
-
-Patent    : Published
-
 Projects  : 10+
-
-Learning  : Never Stops 🚀
+Patent    : Indian Patent
+Hackathon : TetherX
 ```
 
 </td>
+
 </tr>
 </table>
 
