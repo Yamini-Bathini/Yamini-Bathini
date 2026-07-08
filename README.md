@@ -11,26 +11,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&duration=2500&color=7F5AF0&center=true&vCenter=true&width=900&lines=Computer+Science+(AI+%26+ML)+Student;Full+Stack+Developer;Java+Developer;Open+Source+Learner;Building+Projects+That+Solve+Real+Problems;Always+Learning+🚀"/>
 
-<br>
-
-<a href="https://github.com/Yamini-Bathini">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yamini-bathini-875052371">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Yamini_Bathini/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="mailto:yamini3366@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
 <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yamini-Bathini&theme=tokyonight"/>
 
 <br>
