@@ -127,20 +127,6 @@ I enjoy designing and developing **AI-powered applications**, **Full Stack Web A
 
 <br><br>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/🎓_CGPA-9.6-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/💻_Projects-10+-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🏆_Patent-Published-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🚀_Hackathon-TetherX-yellow?style=for-the-badge"/>
-
-</div>
-
-<br>
-
 <table align="center">
 <tr>
 <td align="center" width="35%">👤 <b>Name</b></td>
