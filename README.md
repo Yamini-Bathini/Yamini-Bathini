@@ -279,7 +279,7 @@ An AI-powered sustainability platform that enables organizers to create greener 
 <td width="50%" align="center">
 
 <a href="https://github.com/Yamini-Bathini/EXPENSE-SPLITTER">
-<img src="https://github.com/Yamini-Bathini/EXPENSE-SPLITTER/blob/main/screenshots/dashboard.png?raw=true" width="100%" alt="Expense Splitter Dashboard"/>
+<img src="https://imgh.in/host/au43qi" width="100%" alt="Expense Splitter"/>
 </a>
 
 </td>
@@ -290,16 +290,16 @@ An AI-powered sustainability platform that enables organizers to create greener 
 
 ### Secure Full Stack Expense Management Platform
 
-A modern full-stack application that simplifies **expense sharing, balance tracking, and group settlements** through a clean user interface and secure authentication, making collaborative expense management effortless.
+A modern full-stack web application that simplifies **expense sharing, balance tracking, and group settlements** through secure authentication and an intuitive user experience. Designed to make collaborative expense management seamless for individuals and groups.
 
 ### ✨ Key Features
 
 - 💳 Create & Manage Shared Expenses
-- 👥 Group-Based Expense Tracking
+- 👥 Group Expense Management
 - 📊 Interactive Dashboard & Analytics
-- 🔐 Secure User Authentication
-- 💰 Smart Balance & Settlement Calculation
-- 📱 Responsive User Experience
+- 🔐 Secure JWT Authentication
+- 💰 Smart Balance & Settlement Tracking
+- 📱 Responsive & User-Friendly Interface
 
 ### 🛠️ Tech Stack
 
