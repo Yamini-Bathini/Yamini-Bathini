@@ -76,7 +76,7 @@ I enjoy designing and developing **AI-powered applications**, **Full Stack Web A
 
 <br><br>
 
-<img src="https://img.shields.io/badge/CGPA-9.6-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-9.54-success?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Projects-10+-blue?style=for-the-badge"/>
 
